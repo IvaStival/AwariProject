@@ -1,0 +1,1 @@
+  08/09/21 21:20:37 GMT-3: Starting composition “barplot_art”.  Output To: /Users/ivastival/OneDrive/Cursos/Awari - Data Science/Code/Project/apresentation/after_effects/OUT/barplot_art_1.mov    08/09/21 21:21:00 GMT-3: Finished composition “barplot_art”.  Total Time Elapsed: 23 SecondsLog closed on 08/09/21 at 21:21:01 GMT-3
