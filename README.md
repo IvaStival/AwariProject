@@ -91,5 +91,7 @@ Algumas tiveram um resultado inferior, talvez aumentando o número dessas placas
 ## Trabalhos futuros
 Como esse modelo apresentado consegue somente classificar imagens onde só existe a placa, um trabalho futuro é a implementação de outro modelo que consiga identificar as placas em uma imagem bruta
 e assim enviar para este modelo classificar.
-Outro trabalho futuro é a implementação em video em tempo real.
+
+Outra possibilidade é a implementação em video em tempo real.
+
 E por fim a criação de um aplicativo para uso geral.
