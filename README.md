@@ -51,7 +51,7 @@ Camada de resultado:
   Retorna um array com a probabilidade da imagem atual ser cada uma das 43 possibilidades;
 
 ## Resultados
-![alt text](https://github.com/IvaStival/AwariProject/plots/Step01/Hist_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true)
+![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true)
 
 
 ## Trabalhos futuros
