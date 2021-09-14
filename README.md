@@ -51,10 +51,15 @@ Camada de resultado:
   Retorna um array com a probabilidade da imagem atual ser cada uma das 43 possibilidades;
 
 ## Resultados
-| Acurácia de Treino e Teste | |
+### Acurácia Treino e Teste
+| Etapa 1 | Etapa 2 |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test1.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test2.png?raw=true) |
+| Etapa 3 | Etapa 4 |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test3.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test4.png?raw=true) |
+| Etapa 5 | |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test5.png?raw=true) |
 
 ### Todas as acurácias do treino
@@ -63,13 +68,28 @@ Camada de resultado:
 ### Todas as acurácias do test
 ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_All_Test.png?raw=true)
 
-| Precisão por placa | |
+### Precisão por placa
+| Etapa 1 | Etapa 2 |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test1.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test2.png?raw=true) |
+| Etapa 3 | Etapa 4 |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test3.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test4.png?raw=true) |
+| Etapa 5 | |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test5.png?raw=true)|
 
 
+Podemos notar que o melhor resultado foi a etapa numero 4, onde atingiu em media mais de 90% de acurácia tanto no treino quando no teste.
+A sua configuração foi a seguinte:
+  - Numero de Filtros   = 16, 32 e 64
+  - Tamanho dos Filtros = 5x5 5x5 and 5x5
+  - Tamanho da camada Densa = 256 e 256
+
+Outra coisa a se notar foi o resultado da ultima etapa, que até teve um resultado ok no treino mas se perdeu totalmente no teste.
+Acredito que isso se deve ao tamanho tanto da matriz quanto no numero de filtros.
+
+Analisando os gráficos por placas vemos que a etapa número 4 é a melhor. Alcançando um boa precisão na maioria das placas, talvez aumentando o número dessas placas ou ainda aumentar o numero de épocas possa resolver.
 
 ## Trabalhos futuros
 Como esse modelo apresentado consegue somente classificar imagens onde só existe a placa, um trabalho futuro é a implementação de outro modelo que consiga identificar as placas em uma imagem bruta
