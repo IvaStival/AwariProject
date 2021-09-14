@@ -85,7 +85,8 @@ A sua configuração foi a seguinte:
 Outra coisa a se notar foi o resultado da ultima etapa, que até teve um resultado ok no treino mas se perdeu totalmente no teste.
 Acredito que isso se deve ao tamanho tanto da matriz quanto no numero de filtros.
 
-Analisando os gráficos por placas vemos que a etapa número 4 é a melhor. Alcançando um boa precisão na maioria das placas, talvez aumentando o número dessas placas ou ainda aumentar o numero de épocas possa resolver.
+Analisando os gráficos por placas vemos que a etapa número 4 é a melhor. Alcançando um boa precisão na maioria das placas.
+Algumas tiveram um resultado inferior, talvez aumentando o número dessas placas ou ainda aumentar o número de épocas possa resolver.
 
 ## Trabalhos futuros
 Como esse modelo apresentado consegue somente classificar imagens onde só existe a placa, um trabalho futuro é a implementação de outro modelo que consiga identificar as placas em uma imagem bruta
