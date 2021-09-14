@@ -14,6 +14,8 @@ Os dados foram adquiridos através do Kaggle.
 Uma competição que possui placas de trânsito Alemãs e podem ser encontradas aqui:
 https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
+![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/placas.png?raw=true)
+
 Os dados já estão divididos em treino e teste, estão devidamente catalogadas e possuem apenas imagens das placas.
 
 São mais de 50 mil imagens e 43 tipos diferentes de placas.
@@ -47,18 +49,15 @@ A rede é dividida em 3:
 
 E cada uma das divisões possuem suas próprias divisões.
 
-* Camada de Convolução:
-  Nessa camada é onde ocorre a obtenção de características das imagens e também a redução no tamanho das mesmas;
+* Camada de Convolução: Nessa camada é onde ocorre a obtenção de características das imagens e também a redução no tamanho das mesmas;
 
   Essa camada é divida em mais 5 camadas de convolução, sendo a primeira a camada de entrada no tamanho de 32x32.
 
-* Camada Densa
-  Essa camada é a rede neural clássica, onde ocorre o aprendizado;
+* Camada Densa: Essa camada é a rede neural clássica, onde ocorre o aprendizado;
 
   Aqui com 2 camadas e o tamanho delas varia de acordo com a etapa dos testes.
 
-* Camada de resultado:
-  Retorna um array com a probabilidade da imagem atual ser cada uma das 43 possibilidades;
+* Camada de resultado: Retorna um array com a probabilidade da imagem atual ser cada uma das 43 possibilidades;
 
 ## Resultados
 ### Acurácia Treino e Teste
