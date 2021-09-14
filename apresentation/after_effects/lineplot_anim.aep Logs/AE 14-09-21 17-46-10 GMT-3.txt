@@ -1,0 +1,1 @@
+  14/09/21 17:46:10 GMT-3: Starting composition “lineplot”.  Output To: /Users/ivastival/OneDrive/Cursos/Awari - Data Science/Code/Project/apresentation/after_effects/OUT/lineplot.mov    14/09/21 17:46:52 GMT-3: Finished composition “lineplot”.  Total Time Elapsed: 42 SecondsLog closed on 14/09/21 at 17:46:52 GMT-3

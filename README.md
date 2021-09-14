@@ -51,18 +51,21 @@ Camada de resultado:
   Retorna um array com a probabilidade da imagem atual ser cada uma das 43 possibilidades;
 
 ## Resultados
-| Acuracia de Treino e Teste | |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_3x3_3x3_3x3_Dense_64_128_Filter_4_8_16.png?raw=true) |
-| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_5x5_3x3_3x3_Dense_128_256_Filter_8_16_32.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_5x5_5x5_5x5_Dense_256_256_Filter_16_32_64.png?raw=true) |
-| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_5x5_8x8_4x4_Dense_256_512_Filter_32_32_64.png?raw=true) | |
+### Acurácia de Treino e Teste
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test1.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test2.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test3.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test4.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test5.png?raw=true) |
 
+### Todas as acurácias do treino
+![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_All_Train.png?raw=true)
 
-| Precisão por placa | |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_3x3_3x3_3x3_Dense_64_128_Filter_4_8_16.png?raw=true) |
-| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_5x5_3x3_3x3_Dense_128_256_Filter_8_16_32.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_5x5_5x5_5x5_Dense_256_256_Filter_16_32_64.png?raw=true) |
-| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_5x5_8x8_4x4_Dense_256_512_Filter_32_32_64.png?raw=true)| |
+### Todas as acurácias do test
+![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_All_Test.png?raw=true)
+
+### Precisão por placa
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test1.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test2.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test3.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test4.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test5.png?raw=true)|
 
 
 
