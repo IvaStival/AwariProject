@@ -56,10 +56,8 @@ Camada de resultado:
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test1.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test2.png?raw=true) |
 | Etapa 3 | Etapa 4 |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test3.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test4.png?raw=true) |
 | Etapa 5 | |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Hist_Test5.png?raw=true) |
 
 ### Todas as acurácias do treino
@@ -73,10 +71,8 @@ Camada de resultado:
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test1.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test2.png?raw=true) |
 | Etapa 3 | Etapa 4 |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test3.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test4.png?raw=true) |
 | Etapa 5 | |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Final/Precision_Test5.png?raw=true)|
 
 
