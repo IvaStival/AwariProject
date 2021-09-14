@@ -51,7 +51,19 @@ Camada de resultado:
   Retorna um array com a probabilidade da imagem atual ser cada uma das 43 possibilidades;
 
 ## Resultados
-![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true)
+| Acuracia de Treino e Teste | |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_3x3_3x3_3x3_Dense_64_128_Filter_4_8_16.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_5x5_3x3_3x3_Dense_128_256_Filter_8_16_32.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_5x5_5x5_5x5_Dense_256_256_Filter_16_32_64.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Hist_Conv_5x5_8x8_4x4_Dense_256_512_Filter_32_32_64.png?raw=true) | |
+
+
+| Precisão por placa | |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_2x2_3x3_3x3_Dense_64_64_Filter_4_4_8.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_3x3_3x3_3x3_Dense_64_128_Filter_4_8_16.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_5x5_3x3_3x3_Dense_128_256_Filter_8_16_32.png?raw=true) | ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_5x5_5x5_5x5_Dense_256_256_Filter_16_32_64.png?raw=true) |
+| ![alt text](https://github.com/IvaStival/AwariProject/blob/main/plots/Step01/Precision_Conv_5x5_8x8_4x4_Dense_256_512_Filter_32_32_64.png?raw=true)| |
+
 
 
 ## Trabalhos futuros
