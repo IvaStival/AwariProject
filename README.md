@@ -1,4 +1,4 @@
-# AwariProject
+# Traffic Sign Classify
 ## Classificação de placas de trânsito usando Convolutional Neural Network
 
 Este estudo tem como tema a classificação de placas de transito usando redes neurais.
